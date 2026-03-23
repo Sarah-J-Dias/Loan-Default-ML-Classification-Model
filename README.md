@@ -1,6 +1,6 @@
 # Loan-Default-ML-Classification-Model
 
-I created this classification model as part of a team project with the National Student Data Corps (NSDC) organization at UCLA.
+I created this ML classification model as part of a team project with the National Student Data Corps (NSDC) organization at UCLA.
 
 The goal of this project was to build a ML classification model to predict whether an SBA (Small Business Administration) loan would be paid in full or charged off (defaulted), using features like industry, number of employees, and jobs created. 
 The full dataset can be found on Kaggle here: https://lnkd.in/gQJJ2DUe
